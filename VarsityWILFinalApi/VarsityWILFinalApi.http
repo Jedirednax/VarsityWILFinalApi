@@ -1,0 +1,6 @@
+@VarsityWILFinalApi_HostAddress = http://localhost:5236
+
+GET {{VarsityWILFinalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
